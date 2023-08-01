@@ -1,7 +1,6 @@
 # section1 - Raspberry Pi Pico W 
 Raspberry Pi Pico Hi Resolution pin out - https://datasheets.raspberrypi.com/picow/PicoW-A4-Pinout.pdf
 
-
 # section2 - Python
 ## 2.1. create virtual environment:
 
